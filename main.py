@@ -450,7 +450,7 @@ class DataFetcher:
         else:
             id_value = id_info
             alias = id_value
-
+        """一个试试热度新闻的url,有各大平台的热点和实时新闻的聚合"""
         url = f"https://newsnow.busiyi.world/api/s?id={id_value}&latest"
 
         proxies = None
