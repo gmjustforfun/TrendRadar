@@ -1,6 +1,77 @@
-n8n应用
-Agent应用
-大模型应用
-
-A股
-美股
+DeepSeek-R1
+DeepSeek-V3
+DeepSeek-V3.2
+GPT-5.2
+Gemini 3
+Claude 4.5
+Qwen3
+GLM-4.7
+Kimi K2
+通义千问3
+文心一言4.0
+Llama 3
+Mistral Large
+AlphaFold 3
+Nemotron 3
+Flux
+OmniHuman
+Suno
+CosyVoice
+VibeVoice-ASR
+DeepSeek-Math-V2
+Kimi K2 Thinking Turbo
+GPT-5-mimi
+GPT-5-thinking
+Gemini 3-Pro
+Gemini 3-Flash
+Claude 4.5 Sonnet
+DeepSeek-V3.2-Speciale
+Qwen3-TTS
+AI 大模型
+多模态 AI
+生成式 AI
+AI 推理优化
+AI 训练效率
+大模型微调
+小模型轻量化
+AI 开源框架
+AI 伦理规范
+AI 行业落地
+AIGC 应用
+AI 视觉技术
+AI 自然语言处理
+AI 语音交互
+AI 多智能体
+AI 强化学习
+AI 生成对抗网络
+AI 大模型部署
+AI 算力优化
+AI 数据治理
+AI 低代码开发
+AI 智能制造
+AI 智慧医疗
+AI 智能金融
+AI 智慧教育
+AI 自动驾驶
+AI 机器人
+AI 云计算
+AI 边缘计算
+AI 量子计算
+AI 大模型评测
+AI 提示词工程
+AI 数字人
+AI 生成内容检测
+AI 跨模态理解
+AI 大模型开源
+AI 商业应用
+AI 技术突破
+AI 政策监管
+AI 人才培养
+AI 创业趋势
+AI 投融资动态
+AI 全球技术进展
+AI 模型压缩
+AI 分布式训练
+AI 联邦学习
+AI 小样本学习
+AI 零样本学习
